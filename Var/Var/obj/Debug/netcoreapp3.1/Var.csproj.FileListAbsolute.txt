@@ -1,0 +1,11 @@
+C:\Users\s200493\source\repos\Var\Var\bin\Debug\netcoreapp3.1\Var.exe
+C:\Users\s200493\source\repos\Var\Var\bin\Debug\netcoreapp3.1\Var.deps.json
+C:\Users\s200493\source\repos\Var\Var\bin\Debug\netcoreapp3.1\Var.runtimeconfig.json
+C:\Users\s200493\source\repos\Var\Var\bin\Debug\netcoreapp3.1\Var.runtimeconfig.dev.json
+C:\Users\s200493\source\repos\Var\Var\bin\Debug\netcoreapp3.1\Var.dll
+C:\Users\s200493\source\repos\Var\Var\bin\Debug\netcoreapp3.1\Var.pdb
+C:\Users\s200493\source\repos\Var\Var\obj\Debug\netcoreapp3.1\Var.csprojAssemblyReference.cache
+C:\Users\s200493\source\repos\Var\Var\obj\Debug\netcoreapp3.1\Var.AssemblyInfoInputs.cache
+C:\Users\s200493\source\repos\Var\Var\obj\Debug\netcoreapp3.1\Var.AssemblyInfo.cs
+C:\Users\s200493\source\repos\Var\Var\obj\Debug\netcoreapp3.1\Var.dll
+C:\Users\s200493\source\repos\Var\Var\obj\Debug\netcoreapp3.1\Var.pdb
